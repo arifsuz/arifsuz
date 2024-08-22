@@ -1,6 +1,5 @@
 <!-- HEADER SECTION WITH A WELCOME BANNER AND SOCIAL LINKS -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/54829927/196534407-f0d3c521-cc47-48df-a344-d3ed59db1c8f.gif" width="600" height="300"/>
   <h2>Hi there! I'm Arif Suz 👋</h2>
   <p>A Passionate Developer | Open Source Enthusiast | Lifelong Learner</p>
   <p>Connect with me on:</p>
@@ -21,6 +20,7 @@
 ---
 
 <!-- ABOUT ME SECTION WITH DETAILS ABOUT YOU -->
+
 ### About Me
 
 - 🔭 I’m currently working on **SOCIAL COMMERCE** using **LARAVEL**
@@ -33,6 +33,7 @@
 ---
 
 <!-- TECH STACK SECTION WITH BADGES -->
+
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
@@ -46,7 +47,7 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
   <!-- Add more tools/technologies you use here -->
 </p>
@@ -54,6 +55,7 @@
 ---
 
 <!-- GITHUB STATS SECTION WITH DYNAMIC ELEMENTS -->
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -65,6 +67,7 @@
 ---
 
 <!-- DYNAMIC SECTION WITH ANIMATED TROPHIES AND CONTRIBUTIONS -->
+
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -74,26 +77,41 @@
 ---
 
 <!-- RECENT ACTIVITY SECTION WITH DYNAMIC CONTENT -->
+
 ### 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💻 Pushed to [arifsuz/Bot-Auto-Survey-KHS](https://github.com/arifsuz/Bot-Auto-Survey-KHS) - 1 day ago
-2. 📝 Opened issue [#1](https://github.com/arifsuz/AI-ReactXGroq/issues/1) - 1 hour ago
+
+1. 💻 Pushed to [arifsuz/finance-manager](https://github.com/arifsuz/finance-manager) - 1 hour ago
+2. 📝 Opened issue [#1](https://github.com/arifsuz/AI-ReactXGroq/issues/1) - 1 week ago
 3. ⭐ Starred [Bot-Auto-Survey-KHS](https://github.com/arifsuz/Bot-Auto-Survey-KHS) - 1 days ago
 <!--END_SECTION:activity-->
 
 ---
 
 <!-- FUN SECTION WITH GITHUB WORKFLOW AND COMMIT GRAPH -->
+
 ### 🎯 Fun with GitHub
 
 <p align="center">
-  <img src="https://github.com/arifsuz/arifsuz/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
----
-
 <!-- QUOTE SECTION WITH INSPIRATIONAL QUOTE -->
+
 ### 💡 Quote of the Day
 
 <p align="center">
