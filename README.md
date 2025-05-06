@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifsuz&show_icons=true&theme=radical" alt="arifsuz GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifsuz&theme=radical" alt="arifsuz GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?username=arifsuz&theme=radical" alt="arifsuz GitHub Streak" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsuz&layout=compact&theme=radical" alt="arifsuz Top Languages" />
 </p>
 
