@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/marif8/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/arifsuz" target="_blank">
+  <a href="https://instagram.com/ariftsx" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://github.com/arifsuz" target="_blank">
@@ -23,8 +23,8 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **SOCIAL COMMERCE** using **LARAVEL**
-- 🌱 I’m learning **Three.JS** to enhance my skills
+- 🔭 I am currently working on **TESLA Stock Prediction** using **LSTM** algorithm
+- 🌱 I’m learning **Deep Learning** to enhance my skills
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Interesting Tech Challenges**
 - 💬 Ask me about **Web Development**, **Machine Learning**, **DevOps**, or **Anything Tech!**
 - 📫 How to reach me: **muh892004@gmail.com**
@@ -73,19 +73,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arifsuz&theme=algolia&row=1&column=6" alt="arifsuz Trophies" />
 </p>
-
----
-
-<!-- RECENT ACTIVITY SECTION WITH DYNAMIC CONTENT -->
-
-### 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-
-1. 💻 Pushed to [arifsuz/finance-manager](https://github.com/arifsuz/finance-manager) - 1 hour ago
-2. 📝 Opened issue [#1](https://github.com/arifsuz/AI-ReactXGroq/issues/1) - 1 week ago
-3. ⭐ Starred [Bot-Auto-Survey-KHS](https://github.com/arifsuz/Bot-Auto-Survey-KHS) - 1 days ago
-<!--END_SECTION:activity-->
 
 ---
 
