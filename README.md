@@ -23,7 +23,7 @@
 
 ### About Me
 
-- 🔭 I am currently working on **TESLA Stock Prediction** using **LSTM** algorithm
+- 🔭 I am currently working on **BBCA-Stock-Price-Prediction** using **LSTM, Random Forest, and XGBoost** algorithm
 - 🌱 I’m learning **Deep Learning** to enhance my skills
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Interesting Tech Challenges**
 - 💬 Ask me about **Web Development**, **Machine Learning**, **DevOps**, or **Anything Tech!**
