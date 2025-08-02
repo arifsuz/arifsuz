@@ -22,11 +22,9 @@
 <!-- ABOUT ME SECTION WITH DETAILS ABOUT YOU -->
 
 ### About Me
-
-- 🔭 I am currently working on **BBCA-Stock-Price-Prediction** using **LSTM, Random Forest, and XGBoost** algorithm
 - 🌱 I’m learning **Deep Learning** to enhance my skills
 - 👯 I’m looking to collaborate on **Open Source Projects** and **Interesting Tech Challenges**
-- 💬 Ask me about **Web Development**, **Machine Learning**, **DevOps**, or **Anything Tech!**
+- 💬 Ask me about **Web Development**, **Mobile Development**, **Machine Learning**, **DevOps**, or **Anything Tech!**
 - 📫 How to reach me: **muh892004@gmail.com**
 - ⚡ Fun fact: I love **coding**, **reading tech blogs**, and **exploring new tools**
 
