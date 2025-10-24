@@ -1,112 +1,60 @@
-<!-- HEADER SECTION WITH A WELCOME BANNER AND SOCIAL LINKS -->
-<div align="center">
-  <h2>Hi there! I'm Arif Suz 👋</h2>
-  <p>A Passionate Developer | Open Source Enthusiast | Lifelong Learner</p>
-  <p>Connect with me on:</p>
-  <a href="https://arifsuz.vercel.app/" target="_blank">
-    <img alt="Portofolio" src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/marif8/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/ariftsx" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://github.com/arifsuz" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
+# Halo, saya Arif 👋
+
+[![Website Badge](https://img.shields.io/badge/portfolio-visit-blue?style=for-the-badge&logo=github)](https://github.com/arifsuz)
+[![GitHub followers](https://img.shields.io/github/followers/arifsuz?label=Follow&style=social)](https://github.com/arifsuz)
+
+Saya seorang software engineer / data enthusiast yang suka membuat aplikasi web, mobile, dan model ML. Di halaman ini saya menampilkan proyek-proyek terbaik saya dan sedikit "hiburan" interaktif.
 
 ---
 
-<!-- ABOUT ME SECTION WITH DETAILS ABOUT YOU -->
+## Skill & Teknologi
 
-### About Me
-- 🌱 I’m learning **Deep Learning** to enhance my skills
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Interesting Tech Challenges**
-- 💬 Ask me about **Web Development**, **Mobile Development**, **Machine Learning**, **DevOps**, or **Anything Tech!**
-- 📫 How to reach me: **muh892004@gmail.com**
-- ⚡ Fun fact: I love **coding**, **reading tech blogs**, and **exploring new tools**
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifsuz&layout=compact&hide=Other&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifsuz&show_icons=true&count_private=true&theme=radical)
 
----
-
-<!-- TECH STACK SECTION WITH BADGES -->
-
-### 🛠 Tech Stack & Tools
-
-<p align="left">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Alibaba Cloud" src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" />
-  <!-- Add more tools/technologies you use here -->
-</p>
+- Bahasa & Framework: TypeScript, JavaScript, Python, Flutter (Dart)
+- Tools: Git, GitHub Actions, Docker, Jupyter
+- Fokus: Fullstack web, mobile apps, dan project ML
 
 ---
 
-<!-- GITHUB STATS SECTION WITH DYNAMIC ELEMENTS -->
+## Hiburan (Interaktif)
 
-### 📊 GitHub Stats
+Saya tambahkan elemen visual bergerak untuk sedikit hiburan. Kalau ingin mengubah pesan "Quote of the Day", workflow akan mengacak pesan setiap hari.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifsuz&show_icons=true&theme=radical" alt="arifsuz GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?username=arifsuz&theme=radical" alt="arifsuz GitHub Streak" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsuz&layout=compact&theme=radical" alt="arifsuz Top Languages" />
-</p>
+![Interactive](assets/interactive.svg)
 
----
+"Quote of the Day":
 
-<!-- DYNAMIC SECTION WITH ANIMATED TROPHIES AND CONTRIBUTIONS -->
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arifsuz&theme=algolia&row=1&column=6" alt="arifsuz Trophies" />
-</p>
+<!-- FUN_START -->
+*Sedang memuat hiburan...*
+<!-- FUN_END -->
 
 ---
 
-<!-- FUN SECTION WITH GITHUB WORKFLOW AND COMMIT GRAPH -->
+## Highlight Proyek
+> Daftar proyek akan di-update otomatis oleh workflow setiap hari. Anda juga bisa men-pin repositori favorit di profil GitHub.
 
-### 🎯 Fun with GitHub
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
-<!-- QUOTE SECTION WITH INSPIRATIONAL QUOTE -->
-
-### 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
-</p>
+<!-- PROJECTS_START -->
+<!-- (Bagian ini akan di-generate otomatis oleh workflow) -->
+1. [sdn-petir-3-website](https://github.com/arifsuz/sdn-petir-3-website) — Website sekolah modern dibuat dengan TypeScript. (TypeScript)
+2. [ai-news-checker](https://github.com/arifsuz/ai-news-checker) — Notebook untuk mendeteksi berita palsu/AI-assisted. (Jupyter Notebook)
+3. [Portofolio-2025](https://github.com/arifsuz/Portofolio-2025) — Website portofolio interaktif. (JavaScript)
+4. [chatbot-ai](https://github.com/arifsuz/chatbot-ai) — Chatbot berbasis AI / NLP. (Python)
+5. [Bot-Auto-Survey-KHS-V2](https://github.com/arifsuz/Bot-Auto-Survey-KHS-V2) — Bot otomasi survey. (Python)
+6. [Machine-Learning-Project-Tesla-Stock-Price-Prediction](https://github.com/arifsuz/Machine-Learning-Project-Tesla-Stock-Price-Prediction) — Prediksi pergerakan saham Tesla (2015-2025). (Jupyter Notebook)
+7. [birtday](https://github.com/arifsuz/birtday) — Halaman interaktif ucapan/celebration. (HTML/CSS/JS)
+8. [Reservasi-Dokter-Flutter-Apps](https://github.com/arifsuz/Reservasi-Dokter-Flutter-Apps) — Aplikasi mobile booking dokter (Flutter).
+9. [BansosKu-Social-Assistance-Distribution](https://github.com/arifsuz/BansosKu-Social-Assistance-Distribution) — Aplikasi mobile distribusi bansos (React Native / TypeScript)
+<!-- PROJECTS_END -->
 
 ---
 
-<!-- VISITOR COUNT AND PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arifsuz&style=for-the-badge" alt="Profile views" />
-  <img src="https://badges.pufler.dev/visits/arifsuz/arifsuz?style=for-the-badge&color=blue" alt="Visitors Count" />
-</p>
+## Cara kerja & customisasi
+- Workflow `.github/workflows/update-readme.yml` akan memperbarui bagian proyek dan memilih "Quote of the Day" secara acak setiap hari.
+- Untuk menambah GIF atau screenshot: letakkan file di folder `assets/` dan sisipkan di README.
+- Untuk gaya bahasa: saya bisa bantu ubah ke bahasa Inggris atau versi yang lebih ringkas/teknikal.
+
+---
+
+Terima kasih sudah mampir! Ingin saya tambahkan demo GIF per proyek atau membuat PR terpisah untuk perbaikan visual? Silakan bilang apa yang mau di-tweak.
