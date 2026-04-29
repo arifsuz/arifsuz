@@ -29,8 +29,10 @@ TOKEN    = os.environ.get("GITHUB_TOKEN", "")
 USERNAME = os.environ.get("GITHUB_USERNAME", "arifsuz")
 README   = "README.md"
 
-MAX_PROJECTS = 10   # rows in the projects table
-MAX_ACTIVITY = 10   # rows in the activity table
+MAX_PROJECTS             = 10   # rows in the projects table
+MAX_ACTIVITY             = 10   # rows in the activity table
+MAX_COMMIT_MESSAGE_LENGTH = 72  # truncate long commit message subjects
+MAX_DESCRIPTION_LENGTH    = 80  # truncate long repository descriptions
 
 QUOTES = [
     "The best error message is the one that never shows up. — Thomas Fuchs",
@@ -50,7 +52,11 @@ QUOTES = [
 def gh_get(url: str, params: dict[str, Any] | None = None) -> Any:
     headers = {"Authorization": f"Bearer {TOKEN}", "Accept": "application/vnd.github+json"}
     resp = requests.get(url, headers=headers, params=params, timeout=20)
-    resp.raise_for_status()
+    if not resp.ok:
+        raise requests.HTTPError(
+            f"GitHub API error {resp.status_code} for {url}: {resp.text[:200]}",
+            response=resp,
+        )
     return resp.json()
 
 
@@ -103,7 +109,7 @@ def fetch_recent_activity() -> list[dict]:
             for c in repo_commits:
                 commits.append({
                     "repo":    repo["name"],
-                    "message": c["commit"]["message"].split("\n")[0][:72],
+                    "message": c["commit"]["message"].split("\n")[0][:MAX_COMMIT_MESSAGE_LENGTH],
                     "date":    c["commit"]["author"]["date"][:10],
                     "url":     repo["html_url"],
                 })
@@ -128,7 +134,7 @@ def build_projects_table(repos: list[dict]) -> str:
         stars = r.get("stargazers_count", 0)
         label = f"[{name}]({url})"
         if desc:
-            label += f" — {desc[:80]}"
+            label += f" — {desc[:MAX_DESCRIPTION_LENGTH]}"
         rows.append(f"| {i} | {label} | {lang} | {stars} |")
     return "\n".join(rows)
 

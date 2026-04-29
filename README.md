@@ -113,7 +113,7 @@ const arif = {
 | 5 | [Bot-Auto-Survey-KHS](https://github.com/arifsuz/Bot-Auto-Survey-KHS) | Python | 7 |
 | 6 | [Create-Read-SEAN-Blog-Portal](https://github.com/arifsuz/Create-Read-SEAN-Blog-Portal) — Blog Portal with SEAN stack | Astro | 7 |
 | 7 | [Learn-React-Basics-For-Beginners](https://github.com/arifsuz/Learn-React-Basics-For-Beginners) | HTML | 7 |
-| 8 | [SImple-UI-Profile-Instagram](https://github.com/arifsuz/SImple-UI-Profile-Instagram) | CSS | 7 |
+| 8 | [Simple-UI-Profile-Instagram](https://github.com/arifsuz/SImple-UI-Profile-Instagram) | CSS | 7 |
 | 9 | [javcostore](https://github.com/arifsuz/javcostore) | JavaScript | 7 |
 | 10 | [Website-Encrypt-Caesar-Chiper](https://github.com/arifsuz/Website-Encrypt-Caesar-Chiper) | CSS | 7 |
 <!-- PROJECTS_END -->
