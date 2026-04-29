@@ -106,16 +106,16 @@ const arif = {
 <!-- PROJECTS_START -->
 | # | Proyek | Bahasa | ⭐ |
 |---|--------|--------|-----|
-| 1 | [Program-Caesar-Cipher-JAVA](https://github.com/arifsuz/Program-Caesar-Cipher-JAVA) — Program Caesar Cipher in JAVA for Encryption | Java | 9 |
+| 1 | [Program-Caesar-Cipher-JAVA](https://github.com/arifsuz/Program-Caesar-Cipher-JAVA) — Program Ceaser Ciper in JAVA for Encryption | Java | 9 |
 | 2 | [Program-Caesar-Chiper-Python](https://github.com/arifsuz/Program-Caesar-Chiper-Python) | Python | 8 |
-| 3 | [Get-Database-From-API-Express.JS-and-Rect.JS](https://github.com/arifsuz/Get-Database-From-API-Express.JS-and-Rect.JS) | JavaScript | 7 |
-| 4 | [AI-ReactXGroq](https://github.com/arifsuz/AI-ReactXGroq) | JavaScript | 7 |
-| 5 | [Bot-Auto-Survey-KHS](https://github.com/arifsuz/Bot-Auto-Survey-KHS) | Python | 7 |
-| 6 | [Create-Read-SEAN-Blog-Portal](https://github.com/arifsuz/Create-Read-SEAN-Blog-Portal) — Blog Portal with SEAN stack | Astro | 7 |
-| 7 | [Learn-React-Basics-For-Beginners](https://github.com/arifsuz/Learn-React-Basics-For-Beginners) | HTML | 7 |
-| 8 | [Simple-UI-Profile-Instagram](https://github.com/arifsuz/SImple-UI-Profile-Instagram) | CSS | 7 |
-| 9 | [javcostore](https://github.com/arifsuz/javcostore) | JavaScript | 7 |
-| 10 | [Website-Encrypt-Caesar-Chiper](https://github.com/arifsuz/Website-Encrypt-Caesar-Chiper) | CSS | 7 |
+| 3 | [AI-ReactXGroq](https://github.com/arifsuz/AI-ReactXGroq) | JavaScript | 7 |
+| 4 | [Bot-Auto-Survey-KHS](https://github.com/arifsuz/Bot-Auto-Survey-KHS) | Python | 7 |
+| 5 | [Create-Read-SEAN-Blog-Portal](https://github.com/arifsuz/Create-Read-SEAN-Blog-Portal) — Blog Portal A website that can be used to create and delete data in a database.  | Astro | 7 |
+| 6 | [Get-Database-From-API-Express.JS-and-Rect.JS](https://github.com/arifsuz/Get-Database-From-API-Express.JS-and-Rect.JS) | JavaScript | 7 |
+| 7 | [javcostore](https://github.com/arifsuz/javcostore) | JavaScript | 7 |
+| 8 | [Learn-React-Basics-For-Beginners](https://github.com/arifsuz/Learn-React-Basics-For-Beginners) | HTML | 7 |
+| 9 | [Pendataan-Penduduk](https://github.com/arifsuz/Pendataan-Penduduk) — Pendataan Penduduk PHP | PHP | 7 |
+| 10 | [SImple-UI-Profile-Instagram](https://github.com/arifsuz/SImple-UI-Profile-Instagram) | CSS | 7 |
 <!-- PROJECTS_END -->
 
 ---
@@ -127,7 +127,16 @@ const arif = {
 <!-- ACTIVITY_START -->
 | Waktu | Pesan Commit | Repositori |
 |-------|-------------|------------|
-| 2025-10-24 | feat(profile): modern interactive README + automated updater | [arifsuz](https://github.com/arifsuz/arifsuz) |
+| 2026-04-29 | Merge pull request #1 from arifsuz/copilot/update-readme-profile-interac | [arifsuz](https://github.com/arifsuz/arifsuz) |
+| 2026-04-29 | first commit | [websocket-simulation-security-operations-center](https://github.com/arifsuz/websocket-simulation-security-operations-center) |
+| 2026-04-29 | change language of readme.md | [websocket-simulation-real-time-stock-market-dashboard](https://github.com/arifsuz/websocket-simulation-real-time-stock-market-dashboard) |
+| 2026-04-29 | first commit | [websocket-simulation-real-time-stock-market-dashboard](https://github.com/arifsuz/websocket-simulation-real-time-stock-market-dashboard) |
+| 2026-04-09 | update README.md | [Simple-Gradient-Calculation-Desktop-Application-Algorithm](https://github.com/arifsuz/Simple-Gradient-Calculation-Desktop-Application-Algorithm) |
+| 2026-04-09 | first commit | [Simple-Gradient-Calculation-Desktop-Application-Algorithm](https://github.com/arifsuz/Simple-Gradient-Calculation-Desktop-Application-Algorithm) |
+| 2026-04-09 | first commit | [Simple-Gradient-Calculation-Website-Application-Algorithm](https://github.com/arifsuz/Simple-Gradient-Calculation-Website-Application-Algorithm) |
+| 2025-11-27 | first commit | [SAGA-Sahabat-Warga](https://github.com/arifsuz/SAGA-Sahabat-Warga) |
+| 2025-11-02 | Merge pull request #2 from arifsuz/develop | [sdn-petir-3-website](https://github.com/arifsuz/sdn-petir-3-website) |
+| 2025-11-02 | add menu lms in navigation | [sdn-petir-3-website](https://github.com/arifsuz/sdn-petir-3-website) |
 <!-- ACTIVITY_END -->
 
 ---
@@ -135,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The best error message is the one that never shows up."* — Thomas Fuchs
+> *"It's not a bug – it's an undocumented feature. — Anonymous"*
 <!-- FUN_END -->
 
 ---
