@@ -127,6 +127,9 @@ const arif = {
 <!-- ACTIVITY_START -->
 | Waktu | Pesan Commit | Repositori |
 |-------|-------------|------------|
+| 2026-05-03 | update README.md | [DUKCAPIL-AI-SERVICES-DASHBOARD](https://github.com/arifsuz/DUKCAPIL-AI-SERVICES-DASHBOARD) |
+| 2026-05-03 | update README.md | [DUKCAPIL-AI-SERVICES-DASHBOARD](https://github.com/arifsuz/DUKCAPIL-AI-SERVICES-DASHBOARD) |
+| 2026-05-03 | first commit | [DUKCAPIL-AI-SERVICES-DASHBOARD](https://github.com/arifsuz/DUKCAPIL-AI-SERVICES-DASHBOARD) |
 | 2026-04-29 | Merge pull request #1 from arifsuz/copilot/update-readme-profile-interac | [arifsuz](https://github.com/arifsuz/arifsuz) |
 | 2026-04-29 | first commit | [websocket-simulation-security-operations-center](https://github.com/arifsuz/websocket-simulation-security-operations-center) |
 | 2026-04-29 | change language of readme.md | [websocket-simulation-real-time-stock-market-dashboard](https://github.com/arifsuz/websocket-simulation-real-time-stock-market-dashboard) |
@@ -134,9 +137,6 @@ const arif = {
 | 2026-04-09 | update README.md | [Simple-Gradient-Calculation-Desktop-Application-Algorithm](https://github.com/arifsuz/Simple-Gradient-Calculation-Desktop-Application-Algorithm) |
 | 2026-04-09 | first commit | [Simple-Gradient-Calculation-Desktop-Application-Algorithm](https://github.com/arifsuz/Simple-Gradient-Calculation-Desktop-Application-Algorithm) |
 | 2026-04-09 | first commit | [Simple-Gradient-Calculation-Website-Application-Algorithm](https://github.com/arifsuz/Simple-Gradient-Calculation-Website-Application-Algorithm) |
-| 2025-11-27 | first commit | [SAGA-Sahabat-Warga](https://github.com/arifsuz/SAGA-Sahabat-Warga) |
-| 2025-11-02 | Merge pull request #2 from arifsuz/develop | [sdn-petir-3-website](https://github.com/arifsuz/sdn-petir-3-website) |
-| 2025-11-02 | add menu lms in navigation | [sdn-petir-3-website](https://github.com/arifsuz/sdn-petir-3-website) |
 <!-- ACTIVITY_END -->
 
 ---
@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Programs must be written for people to read. — Harold Abelson"*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- FUN_END -->
 
 ---
