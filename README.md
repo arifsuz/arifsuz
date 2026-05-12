@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Make it work, make it right, make it fast. — Kent Beck"*
+> *"Programs must be written for people to read. — Harold Abelson"*
 <!-- FUN_END -->
 
 ---
