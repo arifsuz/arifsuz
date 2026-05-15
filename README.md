@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The most disastrous thing that you can ever learn is your first programming language. — Alan Kay"*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler"*
 <!-- FUN_END -->
 
 ---
