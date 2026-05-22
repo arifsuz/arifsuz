@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler"*
+> *"It's not a bug – it's an undocumented feature. — Anonymous"*
 <!-- FUN_END -->
 
 ---
