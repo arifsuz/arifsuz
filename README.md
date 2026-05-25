@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"It's not a bug – it's an undocumented feature. — Anonymous"*
+> *"The most disastrous thing that you can ever learn is your first programming language. — Alan Kay"*
 <!-- FUN_END -->
 
 ---
