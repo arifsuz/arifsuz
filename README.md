@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"It's not a bug – it's an undocumented feature. — Anonymous"*
+> *"Make it work, make it right, make it fast. — Kent Beck"*
 <!-- FUN_END -->
 
 ---
