@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Make it work, make it right, make it fast. — Kent Beck"*
+> *"The most disastrous thing that you can ever learn is your first programming language. — Alan Kay"*
 <!-- FUN_END -->
 
 ---
