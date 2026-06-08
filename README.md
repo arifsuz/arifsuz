@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The most disastrous thing that you can ever learn is your first programming language. — Alan Kay"*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- FUN_END -->
 
 ---
