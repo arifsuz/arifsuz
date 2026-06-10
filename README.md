@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Simplicity is the soul of efficiency. — Austin Freeman"*
+> *"It's not a bug – it's an undocumented feature. — Anonymous"*
 <!-- FUN_END -->
 
 ---
