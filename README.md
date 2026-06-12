@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"It's not a bug – it's an undocumented feature. — Anonymous"*
 <!-- FUN_END -->
 
 ---
