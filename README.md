@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler"*
+> *"Programs must be written for people to read. — Harold Abelson"*
 <!-- FUN_END -->
 
 ---
