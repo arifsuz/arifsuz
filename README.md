@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"The most disastrous thing that you can ever learn is your first programming language. — Alan Kay"*
 <!-- FUN_END -->
 
 ---
