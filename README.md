@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Programs must be written for people to read. — Harold Abelson"*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- FUN_END -->
 
 ---
