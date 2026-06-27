@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Talk is cheap. Show me the code. — Linus Torvalds"*
 <!-- FUN_END -->
 
 ---
