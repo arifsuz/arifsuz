@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Programs must be written for people to read. — Harold Abelson"*
+> *"The best error message is the one that never shows up. — Thomas Fuchs"*
 <!-- FUN_END -->
 
 ---
