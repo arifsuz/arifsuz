@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Simplicity is the soul of efficiency. — Austin Freeman"*
 <!-- FUN_END -->
 
 ---
