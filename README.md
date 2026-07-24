@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"It's not a bug – it's an undocumented feature. — Anonymous"*
+> *"Programs must be written for people to read. — Harold Abelson"*
 <!-- FUN_END -->
 
 ---
