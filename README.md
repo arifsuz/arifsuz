@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"First, solve the problem. Then, write the code. — John Johnson"*
+> *"Programs must be written for people to read. — Harold Abelson"*
 <!-- FUN_END -->
 
 ---
