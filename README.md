@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Make it work, make it right, make it fast. — Kent Beck"*
+> *"The best error message is the one that never shows up. — Thomas Fuchs"*
 <!-- FUN_END -->
 
 ---
