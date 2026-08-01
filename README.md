@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"The best error message is the one that never shows up. — Thomas Fuchs"*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler"*
 <!-- FUN_END -->
 
 ---
