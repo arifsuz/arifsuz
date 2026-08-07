@@ -127,6 +127,9 @@ const arif = {
 <!-- ACTIVITY_START -->
 | Waktu | Pesan Commit | Repositori |
 |-------|-------------|------------|
+| 2026-08-06 | feat(discussion): add 6 advanced Q1 discussion & case study figures (abl | [ARIF-Net-Foot-Price-Shock](https://github.com/arifsuz/ARIF-Net-Foot-Price-Shock) |
+| 2026-08-06 | feat(xai): add SHAP Waterfall plot for single shock event explainability | [ARIF-Net-Foot-Price-Shock](https://github.com/arifsuz/ARIF-Net-Foot-Price-Shock) |
+| 2026-08-06 | docs(notebooks): update notebook file structures and update README links | [ARIF-Net-Foot-Price-Shock](https://github.com/arifsuz/ARIF-Net-Foot-Price-Shock) |
 | 2026-07-11 | Initial commit | [studyio](https://github.com/arifsuz/studyio) |
 | 2026-06-27 | Update README.md | [tms-platform](https://github.com/arifsuz/tms-platform) |
 | 2026-06-27 | feat(core): implement Tournament Management System MVP | [tms-platform](https://github.com/arifsuz/tms-platform) |
@@ -134,9 +137,6 @@ const arif = {
 | 2026-06-09 | first commit | [MLlib-Classification-Dashboard](https://github.com/arifsuz/MLlib-Classification-Dashboard) |
 | 2026-05-03 | update README.md | [DUKCAPIL-AI-SERVICES-DASHBOARD](https://github.com/arifsuz/DUKCAPIL-AI-SERVICES-DASHBOARD) |
 | 2026-05-03 | update README.md | [DUKCAPIL-AI-SERVICES-DASHBOARD](https://github.com/arifsuz/DUKCAPIL-AI-SERVICES-DASHBOARD) |
-| 2026-05-03 | first commit | [DUKCAPIL-AI-SERVICES-DASHBOARD](https://github.com/arifsuz/DUKCAPIL-AI-SERVICES-DASHBOARD) |
-| 2026-04-29 | Merge pull request #1 from arifsuz/copilot/update-readme-profile-interac | [arifsuz](https://github.com/arifsuz/arifsuz) |
-| 2026-04-29 | first commit | [websocket-simulation-security-operations-center](https://github.com/arifsuz/websocket-simulation-security-operations-center) |
 <!-- ACTIVITY_END -->
 
 ---
@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Make it work, make it right, make it fast. — Kent Beck"*
+> *"The best error message is the one that never shows up. — Thomas Fuchs"*
 <!-- FUN_END -->
 
 ---
