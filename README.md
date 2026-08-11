@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"It's not a bug – it's an undocumented feature. — Anonymous"*
+> *"Code is like humor. When you have to explain it, it's bad. — Cory House"*
 <!-- FUN_END -->
 
 ---
