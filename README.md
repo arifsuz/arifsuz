@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Code is like humor. When you have to explain it, it's bad. — Cory House"*
+> *"The most disastrous thing that you can ever learn is your first programming language. — Alan Kay"*
 <!-- FUN_END -->
 
 ---
