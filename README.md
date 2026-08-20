@@ -144,7 +144,7 @@ const arif = {
 ## 💡 Quote of the Day
 
 <!-- FUN_START -->
-> *"Code is like humor. When you have to explain it, it's bad. — Cory House"*
+> *"Make it work, make it right, make it fast. — Kent Beck"*
 <!-- FUN_END -->
 
 ---
