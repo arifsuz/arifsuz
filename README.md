@@ -51,15 +51,13 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 ## Connect
 
-<p align="center">
-  <a href="https://ariftsx.id">Website</a> •
-  <a href="https://linkedin.com/in/muhamadnurarif">LinkedIn</a> •
-  <a href="mailto:ariftsx@gmail.com">Email</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com" alt="arifsuz social section" />
-  </picture>
-</p>
+[**Website**](https://ariftsx.id) • [**LinkedIn**](https://linkedin.com/in/muhamadnurarif) • [**Email**](mailto:ariftsx@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com" alt="arifsuz social section" style="max-width: 100%; height: auto;" />
+</picture>
+
+</div>
