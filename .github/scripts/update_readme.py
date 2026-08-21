@@ -1,7 +1,7 @@
 """
 update_readme.py
 ────────────────
-Fetches the latest public repositories (sorted by stars) and the most
+Fetches the latest public repositories (sorted by recent activity) and the most
 recent commits across all repos for the authenticated GitHub user, then
 patches the README.md in-place between the sentinel comment markers:
 
@@ -74,8 +74,8 @@ def replace_section(content: str, start_marker: str, end_marker: str, new_body: 
 
 # ── Fetch data ────────────────────────────────────────────────────────────────
 
-def fetch_top_repos() -> list[dict]:
-    """Return non-fork public repos sorted by stars descending."""
+def fetch_latest_repos() -> list[dict]:
+    """Return non-fork public repos sorted by most recently pushed."""
     repos: list[dict] = []
     page = 1
     while True:
@@ -87,7 +87,7 @@ def fetch_top_repos() -> list[dict]:
             break
         repos.extend(r for r in batch if not r.get("fork") and not r.get("archived"))
         page += 1
-    repos.sort(key=lambda r: r.get("stargazers_count", 0), reverse=True)
+    repos.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
     return repos[:MAX_PROJECTS]
 
 
@@ -160,7 +160,7 @@ def main() -> None:
 
     print(f"[INFO] Fetching data for @{USERNAME} …")
 
-    repos   = fetch_top_repos()
+    repos   = fetch_latest_repos()
     commits = fetch_recent_activity()
 
     print(f"[INFO] Found {len(repos)} repos, {len(commits)} commits.")
