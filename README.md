@@ -51,7 +51,7 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 ## Connect
 
-<div align="center">
+<div align="center" style="font-size: 14px;">
 
 [**Website**](https://ariftsx.id) • [**LinkedIn**](https://linkedin.com/in/muhamadnurarif) • [**Email**](mailto:ariftsx@gmail.com)
 
