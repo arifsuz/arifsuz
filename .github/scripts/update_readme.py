@@ -5,7 +5,6 @@ Fetches the latest public repositories (sorted by recent activity) and the most
 recent commits across all repos for the authenticated GitHub user, then
 patches the README.md in-place between the sentinel comment markers:
 
-  <!-- PROJECTS_START --> … <!-- PROJECTS_END -->
   <!-- ACTIVITY_START --> … <!-- ACTIVITY_END -->
   <!-- FUN_START -->       … <!-- FUN_END -->
 
@@ -29,10 +28,8 @@ TOKEN    = os.environ.get("GITHUB_TOKEN", "")
 USERNAME = os.environ.get("GITHUB_USERNAME", "arifsuz")
 README   = "README.md"
 
-MAX_PROJECTS             = 10   # rows in the projects table
 MAX_ACTIVITY             = 10   # rows in the activity table
 MAX_COMMIT_MESSAGE_LENGTH = 72  # truncate long commit message subjects
-MAX_DESCRIPTION_LENGTH    = 80  # truncate long repository descriptions
 
 QUOTES = [
     "The best error message is the one that never shows up. — Thomas Fuchs",
@@ -74,23 +71,6 @@ def replace_section(content: str, start_marker: str, end_marker: str, new_body: 
 
 # ── Fetch data ────────────────────────────────────────────────────────────────
 
-def fetch_latest_repos() -> list[dict]:
-    """Return non-fork public repos sorted by most recently pushed."""
-    repos: list[dict] = []
-    page = 1
-    while True:
-        batch = gh_get(
-            f"https://api.github.com/users/{USERNAME}/repos",
-            params={"type": "owner", "per_page": 100, "page": page},
-        )
-        if not batch:
-            break
-        repos.extend(r for r in batch if not r.get("fork") and not r.get("archived"))
-        page += 1
-    repos.sort(key=lambda r: r.get("pushed_at") or "", reverse=True)
-    return repos[:MAX_PROJECTS]
-
-
 def fetch_recent_activity() -> list[dict]:
     """Return the most recent commits across all repos."""
     commits: list[dict] = []
@@ -124,21 +104,6 @@ def fetch_recent_activity() -> list[dict]:
 
 # ── Build sections ────────────────────────────────────────────────────────────
 
-def build_projects_table(repos: list[dict]) -> str:
-    rows = ["| # | Proyek | Bahasa | ⭐ |", "|---|--------|--------|-----|"]
-    for i, r in enumerate(repos, 1):
-        name  = r["name"]
-        url   = r["html_url"]
-        desc  = r.get("description") or ""
-        lang  = r.get("language") or "—"
-        stars = r.get("stargazers_count", 0)
-        label = f"[{name}]({url})"
-        if desc:
-            label += f" — {desc[:MAX_DESCRIPTION_LENGTH]}"
-        rows.append(f"| {i} | {label} | {lang} | {stars} |")
-    return "\n".join(rows)
-
-
 def build_activity_table(commits: list[dict]) -> str:
     rows = ["| Waktu | Pesan Commit | Repositori |", "|-------|-------------|------------|"]
     for c in commits:
@@ -160,20 +125,13 @@ def main() -> None:
 
     print(f"[INFO] Fetching data for @{USERNAME} …")
 
-    repos   = fetch_latest_repos()
     commits = fetch_recent_activity()
 
-    print(f"[INFO] Found {len(repos)} repos, {len(commits)} commits.")
+    print(f"[INFO] Found {len(commits)} commits.")
 
     with open(README, encoding="utf-8") as fh:
         content = fh.read()
 
-    content = replace_section(
-        content,
-        "<!-- PROJECTS_START -->",
-        "<!-- PROJECTS_END -->",
-        build_projects_table(repos),
-    )
     content = replace_section(
         content,
         "<!-- ACTIVITY_START -->",
