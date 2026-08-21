@@ -43,10 +43,12 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 ## Projects
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=arifsuz&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=arifsuz&theme=github-dark" alt="arifsuz projects section" />
-  </picture>
+  
+<!-- PROJECTS_START -->
+| # | Proyek | Bahasa | ⭐ |
+|---|--------|--------|-----|
+| _Sedang memuat proyek terbaru..._ |  |  |  |
+<!-- PROJECTS_END -->
 </p>
 
 ## Connect
@@ -56,8 +58,8 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 [**Website**](https://ariftsx.id) • [**LinkedIn**](https://linkedin.com/in/muhamadnurarif) • [**Email**](mailto:ariftsx@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com" alt="arifsuz social section" style="max-width: 100%; height: auto;" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&font_size=10&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&font_size=10" alt="arifsuz social section" style="max-width: 100%; height: auto;" />
 </picture>
 
 </div>
