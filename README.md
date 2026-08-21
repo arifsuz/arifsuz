@@ -51,7 +51,11 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 ## Connect
 
-Website: [ariftsx.id](https://ariftsx.id) · LinkedIn: [in/muhamadnurarif](https://linkedin.com/in/muhamadnurarif) · Email: [ariftsx@gmail.com](mailto:ariftsx@gmail.com)
+<p align="center">
+  <a href="https://ariftsx.id">Website</a> •
+  <a href="https://linkedin.com/in/muhamadnurarif">LinkedIn</a> •
+  <a href="mailto:ariftsx@gmail.com">Email</a>
+</p>
 
 <p align="center">
   <picture>
