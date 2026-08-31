@@ -1,15 +1,15 @@
-# arifsuz
+# ariftsx
 
 > Recruiter-friendly proof and contact path.
 
 ## Header
 
-Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+Hi, I'm **ariftsx**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=arifsuz&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=arifsuz&theme=github-dark" alt="arifsuz hero section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=ariftsx&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=ariftsx&theme=github-dark" alt="ariftsx hero section" />
   </picture>
 </p>
 
@@ -17,8 +17,8 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=arifsuz&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=arifsuz&theme=github-dark" alt="arifsuz about section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ariftsx&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=ariftsx&theme=github-dark" alt="ariftsx about section" />
   </picture>
 </p>
 
@@ -26,8 +26,8 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=arifsuz&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=arifsuz&theme=github-dark" alt="arifsuz stack section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ariftsx&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=ariftsx&theme=github-dark" alt="ariftsx stack section" />
   </picture>
 </p>
 
@@ -35,8 +35,8 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=arifsuz&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=arifsuz&theme=github-dark" alt="arifsuz stats section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ariftsx&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=ariftsx&theme=github-dark" alt="ariftsx stats section" />
   </picture>
 </p>
 
@@ -44,8 +44,8 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=arifsuz&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=arifsuz&theme=github-dark" alt="arifsuz projects section" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=ariftsx&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=ariftsx&theme=github-dark" alt="ariftsx projects section" />
   </picture>
 </p>
 
@@ -56,8 +56,8 @@ Hi, I'm **arifsuz**. This README shares what I'm building, the tools I use, and 
 [**Website**](https://ariftsx.id) • [**LinkedIn**](https://linkedin.com/in/muhamadnurarif) • [**Email**](mailto:ariftsx@gmail.com)
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&font_size=10&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=arifsuz&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&font_size=10" alt="arifsuz social section" style="max-width: 100%; height: auto;" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=ariftsx&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&font_size=10&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=ariftsx&theme=github-dark&website=ariftsx.id&linkedin=in%2Fmuhamadnurarif&email=ariftsx%40gmail.com&font_size=10" alt="ariftsx social section" style="max-width: 100%; height: auto;" />
 </picture>
 
 </div>
